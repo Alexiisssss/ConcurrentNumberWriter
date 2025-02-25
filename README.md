@@ -20,4 +20,5 @@
    
 ## Соберите и запустите (через Maven):
 
-   mvn clean spring-boot:run
+  mvn clean compile exec:java
+
